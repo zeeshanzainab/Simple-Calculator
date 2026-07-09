@@ -1,4 +1,4 @@
-﻿ Simple-Calculator
+
 # Simple Calculator
 
 A responsive calculator web app built using HTML, CSS, and JavaScript. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
